@@ -1,0 +1,136 @@
+.header {
+  width: 100%;
+  height: 110px;
+  background-color: #f79a83;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  margin-bottom: 0.5px;
+  border-bottom: 0.5px solid white;
+}
+body {
+  margin: 0;
+}
+.downportion {
+  width: 100%;
+  height: 600px;
+  background-image: url("https://www.7up.com/images/simple-7up/image3.png");
+  background-size: cover;
+  margin-top: 110px;
+}
+.secondpic {
+  width: 100%;
+  height: 600px;
+  background-image: url("https://www.7up.com/images/simple-7up/image2.png");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.thirdpic {
+  background-image: url("https://www.7up.com/images/simple-7up/image1.png");
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  width: 100%;
+  height: 120px;
+  background-color: #3e3e3e;
+}
+
+.footertext {
+  color: white;
+  font-size: 13px;
+  font-family: sans-serif;
+  margin-left: 200px;
+  padding-top: 10px;
+}
+.footertext a {
+  margin-left: 20px;
+}
+.lasttext {
+  font-size: 10px;
+  padding-top: 10px;
+  padding-right: 130px;
+}
+
+.logo img {
+  width: 79px;
+  height: 80px;
+  padding-left: 35px;
+  padding-top: 15px;
+}
+.toptext {
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  float: left;
+  padding-left: 500px;
+}
+.toptext a {
+  color: white;
+  padding-right: 30px;
+  text-decoration: none;
+}
+
+.smicons img {
+  height: 30px;
+  width: 30px;
+}
+.smicons {
+  padding-left: 30px;
+}
+
+.seasons {
+  color: white;
+  font-size: 66px;
+  padding-top: 203px;
+  padding-left: 139px;
+  font-weight: bolder;
+  font-family: monospace;
+}
+.button input {
+  border-radius: 20px;
+  font-size: 20px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+}
+.button {
+  padding-top: 20px;
+}
+.pebble {
+  background-color: rgba(10, 91, 43, 0.8);
+  width: 500px;
+  height: 180px;
+  border-radius: 100px;
+}
+.pe-text1 {
+  color: white;
+
+  font-size: 30px;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.butt {
+  border-radius: 20px;
+  font-size: 20px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  margin-left: 170px;
+}
+p {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
